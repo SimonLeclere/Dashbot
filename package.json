@@ -1,0 +1,20 @@
+{
+  "name": "dashbot",
+  "version": "1.0.0",
+  "description": "Simple example for using discord-easy-dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simon Leclère",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.22.0",
+    "discord-easy-dashboard": "^1.0.4",
+    "discord.js": "^13.1.0",
+    "quick.db": "^7.1.3"
+  }
+}

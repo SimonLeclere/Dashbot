@@ -1,0 +1,9 @@
+{
+	"clientId": "",
+	"guildId": "",
+	"token": "",
+
+	"baseUrl": "http://localhost",
+	"port": 80,
+	"client_secret": ""
+}
