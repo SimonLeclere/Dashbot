@@ -8,7 +8,8 @@ Example of use of the [`discord-easy-dashboard`](https://github.com/SimonLeclere
 git clone https://github.com/SimonLeclere/dashbot
 npm i
 ```
-Fill the config.json file and then :
+Fill the config.json file
+⚠ Don't forget, on the discord developers page in the OAuth section, to add a redirection link in the form `baseUrl:port/auth/login` !
 ```
 node .\deploy-commands.js
 node .
